@@ -1,9 +1,15 @@
 # Serai
 
-Serai is a new DEX, built from the ground up, initially planning on listing
-Bitcoin, Ethereum, DAI, and Monero, offering a liquidity-pool-based trading
-experience. Funds are stored in an economically secured threshold-multisig
-wallet.
+Serai is decentralised infrastructure that enables cross-chain swaps. It offers a liquidity-pool based trading experience for Monero, Bitcoin, Ethereum, DAI and more.
+
+Funds are stored in decentralised economically secured threshold-multisig wallets.
+
+Serai is a decentralized execution layer whose validators form multisig wallets for various connected networks, offering secure decentralized control of foreign coins to applications built on it.
+
+Serai is exemplified by Serai DEX, an automated-market-maker (AMM) decentralized exchange, allowing swapping Bitcoin, Ether, DAI, and Monero. It is the premier application of Serai.
+
+Serai is based on [Substrate](https://docs.substrate.io), a blockchain framework
+offering a robust infrastructure.
 
 [Getting Started](docs/Getting%20Started.md)
 
